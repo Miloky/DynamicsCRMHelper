@@ -1,0 +1,7 @@
+.vs
+obj
+bin
+*.csproj.user
+appsettings.Local.json
+.idea
+.DS_Store
