@@ -38,7 +38,7 @@ Follow these steps to get your development environment set up:
      ```
      dotnet build
      ```
-  5. Once the front end has started, within the `\DynamicsHelper` directory, launch the back end by running:
+  5. Next, within the `\DynamicsHelper` directory, launch the project by running:
      ```
 	 dotnet run
 	 ```
